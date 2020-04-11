@@ -84,7 +84,6 @@ def insert_songemo(s_id,e_id):
 # insert_artist("Akhil")
 # insert_artist("Alyssa Mendonsa")
 # insert_artist("Ankit Tiwari")
-# insert_artist("Anupam Amod")
 # insert_artist("Arijit Singh")
 # insert_artist("Benny Dayal")
 # insert_artist("Carlyta Mouhini")
